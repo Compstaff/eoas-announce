@@ -33,7 +33,7 @@ To work with this repository
      cd ~/repos
      git clone https://github.com/phaustin/pha_bootstrap_theme
      cd pha_bootstrap_them
-     pip install sphinx_bootstrap_themee
+     pip install sphinx_bootstrap_theme
 
 
 7) edit index.rst to change the message and rebuild the site::
