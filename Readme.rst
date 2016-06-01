@@ -18,13 +18,15 @@ To work with this repository
      cd repos 
      ~/repos phil@raild% git clone announce:Compstaff/eoas-announce
 
+   gh-pages is set as the default branch
+
 
 4) Install miniconda for python 3.5 from http://conda.pydata.org/miniconda.html
 
 
 5) Add the sphinx module with::
 
-   conda install sphinx
+     conda install sphinx
 
 6) Clone a theme and install it::
 
@@ -34,11 +36,9 @@ To work with this repository
      pip install sphinx_bootstrap_themee
 
 
-7) checkout the gh-pages branch and
-   edit index.rst to change the message and rebuild the site::
+7) edit index.rst to change the message and rebuild the site::
 
      cd ~/repos/eoas-announce
-     git checkout gh-pages
      ./build-site.sh
    
 8) See how it looks on localhost::
