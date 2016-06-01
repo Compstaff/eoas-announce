@@ -35,7 +35,6 @@ import site
 extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
-    'sphinxcontrib.fulltoc',
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.autosummary'
@@ -65,7 +64,7 @@ author = 'comp;staff'
 # built documents.
 #
 # The short X.Y version.
-version = '2016Jan01'
+version = 'v0.1'
 # The full version, including alpha/beta/rc tags.
 release = '2016Jan01'
 
@@ -119,8 +118,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #html_theme = 'alabaster'
-import phil_bootstrap_theme
-html_theme_path = phil_bootstrap_theme.get_html_theme_path()
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 print(html_theme_path)
 html_theme = 'bootstrap'
 
