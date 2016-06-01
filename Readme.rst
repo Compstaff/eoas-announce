@@ -32,7 +32,7 @@ To work with this repository
 
      cd ~/repos
      git clone https://github.com/phaustin/pha_bootstrap_theme
-     cd pha_bootstrap_them
+     cd pha_bootstrap_theme
      pip install sphinx_bootstrap_theme
 
 
