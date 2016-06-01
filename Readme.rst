@@ -15,8 +15,8 @@ To work with this repository
 
 3) Clone the repository::
 
-   cd repos 
-   ~/repos phil@raild% git clone announce:Compstaff/eoas-announce
+     cd repos 
+     ~/repos phil@raild% git clone announce:Compstaff/eoas-announce
 
 
 4) Install miniconda for python 3.5 from http://conda.pydata.org/miniconda.html
@@ -31,7 +31,7 @@ To work with this repository
      cd ~/repos
      git clone https://github.com/phaustin/pha_bootstrap_theme
      cd pha_bootstrap_them
-     pip install sphinx_bootstrap_theme
+     pip install sphinx_bootstrap_themee
 
 
 7) checkout the gh-pages branch and
