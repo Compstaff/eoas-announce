@@ -34,16 +34,31 @@ To work with this repository
      pip install sphinx_bootstrap_theme
 
 
-7) Edit index.rst to change the message and rebuild the site::
+7) checkout the gh-pages branch and
+   edit index.rst to change the message and rebuild the site::
 
-   cd ~/repos/eoas-announce
-   ./build-site.sh
+     cd ~/repos/eoas-announce
+     git checkout gh-pages
+     ./build-site.sh
    
 8) See how it looks on localhost::
 
-   python -m http.server &
+     python -m http.server &
 
    then browse to localhost:8000
+
+
+9) If it looks ok, push back to github::
+
+     git push
+
+10) final check for http://Compstaff.github.io/eoas-announce
+   
+
+
+
+
+ 
 
    
    
