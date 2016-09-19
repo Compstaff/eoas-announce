@@ -53,7 +53,7 @@ To work with this repository
      git commit -am 'commit message'
      git push
 
-10) final check for http://Compstaff.github.io/eoas-announce
+10) final check for http://Compstaff.github.io/eoas-announce and http://eoas-announce.ca
    
 
 
