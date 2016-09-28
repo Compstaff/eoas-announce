@@ -50,9 +50,10 @@ To work with this repository
 
 9) If it looks ok, push back to github::
 
+     git commit -am 'commit message'
      git push
 
-10) final check for http://Compstaff.github.io/eoas-announce
+10) final check for http://Compstaff.github.io/eoas-announce and http://eoas-announce.ca
    
 
 
