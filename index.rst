@@ -1,7 +1,9 @@
-2016/9/28: Current Status:  all systems up
+2017/Feb/06: Current Status:  power is out
 ==========================================
 
-As of 14:00 all websites should be accessible from outside UBC
+11:26 am -- power down (but wireless and some local outlets working in EOS South)
+
+
 
 
 
