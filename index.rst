@@ -1,7 +1,8 @@
-2017/Feb/06: Current Status:  power is out
-==========================================
+2017/Feb/06: Current Status -- all systems working
+==================================================
 
-11:26 am -- power down (but wireless and some local outlets working in EOS South)
+
+power back on at 11:43 am
 
 
 
