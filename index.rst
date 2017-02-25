@@ -1,8 +1,7 @@
-2017/Feb/25: Current Status -- email down
------------------------------------------
+2017/Feb/25: Current Status -- normal
+-------------------------------------
 
-* 12:30pm The exchange mail server is offline 
+* email server back up at 13:58
 
-* Charles is at the UDC working on it
   
 
