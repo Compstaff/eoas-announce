@@ -1,8 +1,8 @@
-2017/Feb/06: Current Status -- systems up
+2017/Feb/25: Current Status -- email down
 -----------------------------------------
 
-* power back on at 11:43 am
+* 12:30pm The exchange mail server is offline 
 
-* could be some instability as they bring the campus online
-
+* Charles is at the UDC working on it
+  
 
