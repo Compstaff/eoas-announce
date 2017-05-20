@@ -1,7 +1,8 @@
-2017/Feb/25: Current Status -- normal
--------------------------------------
+2017/May/20: Current Status -- email down
+-----------------------------------------
 
-* email server back up at 13:58
+* email server down at 8:19am -- compstaff is investigating
+  
 
   
 
