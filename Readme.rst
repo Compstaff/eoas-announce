@@ -28,17 +28,10 @@ To work with this repository
 
      conda install sphinx
 
-6) Clone a theme and install it::
-
-     cd ~/repos
-     git clone https://github.com/phaustin/pha_bootstrap_theme
-     cd pha_bootstrap_theme
-     pip install sphinx_bootstrap_theme
-
-
 7) edit index.rst to change the message and rebuild the site::
 
      cd ~/repos/eoas-announce
+     mkdir -p _build
      ./build-site.sh
    
 8) See how it looks on localhost::
