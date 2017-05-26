@@ -1,7 +1,7 @@
-2017/May/20: Current Status -- email down
------------------------------------------
+2017/May/26: Current Status -- normal
+-------------------------------------
 
-* email server down at 8:19am -- compstaff is investigating
+* MacMail and Outlook 
   
 
   
