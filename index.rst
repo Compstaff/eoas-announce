@@ -1,7 +1,9 @@
-2017/May/26: Current Status -- normal
--------------------------------------
+2017/May/27: Current Status -- website down
+-------------------------------------------
 
-* MacMail and Outlook back as of 10:45am
+* Saturday evening: Website is down
+
+  
   
   
 

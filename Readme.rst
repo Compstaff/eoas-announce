@@ -21,7 +21,7 @@ To work with this repository
    gh-pages is set as the default branch
 
 
-4) Install miniconda for python 3.5 from http://conda.pydata.org/miniconda.html
+4) Install miniconda for python 3.6 from http://conda.pydata.org/miniconda.html
 
 
 5) Add the sphinx module with::
