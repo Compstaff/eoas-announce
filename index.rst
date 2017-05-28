@@ -1,7 +1,8 @@
-2017/May/27: Current Status -- website down
+2017/May/28: Current Status -- normal
 -------------------------------------------
 
-* Saturday evening: Website is down -- will update status tomorrow
+* Saturday evening: Website is back up
+  
   
 
   
