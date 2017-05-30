@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import sphinx_bootstrap_theme
+#import sphinx_bootstrap_theme
 #
 # a500 documentation build configuration file, created by
 # sphinx-quickstart on Sat Aug  8 10:48:29 2015.

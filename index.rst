@@ -1,7 +1,8 @@
-2017/May/28: Current Status -- normal
--------------------------------------------
+2017/May/30: Current Status -- email down
+-----------------------------------------
 
-* Saturday evening: Website is back up
+* 7:25am -- Charles at UDC investigating
+  
   
   
 
